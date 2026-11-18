@@ -12,7 +12,7 @@ g++ -std=c++17 -Wall -Wextra -o cardgames *.cpp
 ```
 
 ## Step 1 - Data Collection
-Copy your lab3 to `lab3` directory of this repository. Add the necessary files to `genai` and `lab3` directories, to support your claims in the Data Collection step of the project.
+Copy your lab3 to `lab3` directory of this repository. Add the necessary files to `genai/evidence` and `lab3/evidence` directories, to support your claims in the Data Collection step of the project.
 
 ## Step 3 - Application: Build It Again, With You in the Loop
 For this step of the project, point GenAI to the `new_solution` directory of this repository. 
